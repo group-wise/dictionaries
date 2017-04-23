@@ -9,6 +9,5 @@
 
 + xData -> שם המשתמש
 + yData -> ספירה כל הופעת הודעות
-
 + xDataNormalized -> שם המשתמש
 + yDataNormalized -> אחוז מכלל ההודעות שמופיעה בהם המילון
